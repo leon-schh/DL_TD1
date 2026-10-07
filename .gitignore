@@ -1,3 +1,4 @@
 data/photos/random
 data/photos/pokemon
 .venv
+__pycache__
